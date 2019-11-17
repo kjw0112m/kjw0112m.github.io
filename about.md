@@ -6,7 +6,7 @@ background: '/img/bg-about.png'
 ---
 
 <div>
-    <img src="C:\Users\kjw01\Downloads\profile.jpg"  style="float: left; margin-right: 30px;">
+    <img src="/img/profile.jpg"  style="float: left; margin-right: 30px;">
     <div>
         <p style="font-size:20px; font-weight:bold;">
             김지원
