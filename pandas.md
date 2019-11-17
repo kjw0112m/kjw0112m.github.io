@@ -2,7 +2,7 @@
 layout: page
 title: panda
 description: portfolio
-background: '/img/bg-about.png'
+background: '/img/panda/maing.PNG'
 ---
 
 ## *jiwon*
