@@ -4,9 +4,3 @@ title: Introduce me
 description: My profile
 background: '/img/bg-about.png'
 ---
-
-<p></p>
-
-<p></p>
-
-<p class="mb-5"></p>
